@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { nanoid } from 'nanoid';
-import { Container, Title, SubTitle, Wrapper } from './App.styled';
+import { Container, Title, SubTitle, Wrapper } from './App.module';
 import ContactForm from '../ContactForm/ContactForm';
 import ContactList from '../ContactList/ContactList';
 import Filter from '../Filter/Filter';

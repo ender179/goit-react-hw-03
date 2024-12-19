@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Div, Label, Input } from './Filter.styled';
+import { Div, Label, Input } from './Filter.module';
 
 // Компонент фильтрации контактов
 function Filter({ value, onChangeFilter }) {

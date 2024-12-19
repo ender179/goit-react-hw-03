@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { List, Item, Button } from './ContactList.styled';
+import { List, Item, Button } from './ContactList.module';
 import { ReactComponent as DeleteIcon } from '../icons/delete.svg';
 
 // Компонент списка контактов

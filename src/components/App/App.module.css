@@ -1,0 +1,6 @@
+/* src/components/App/App.module.css */
+.container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 600px;
+}
